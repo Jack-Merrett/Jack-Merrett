@@ -29,3 +29,5 @@ My name is Jack! I am an enthusiastic and ambitious individual with a passion fo
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> 
 </p>
+
+![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Merrett&show_icons=true&theme=radical)
