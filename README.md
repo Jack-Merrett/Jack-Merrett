@@ -17,7 +17,7 @@ My name is Jack! I am an enthusiastic and ambitious individual with a passion fo
 - 🌱 I’m currently learning recommender system
 - ⚡ Fun fact: I have a back ground in Japanese stage plays (kyogen)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3> 
 <p align="left"> <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> </a> 
 <a href="https://www.heroku.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a> 
