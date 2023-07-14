@@ -14,7 +14,7 @@ My name is Jack! I am an enthusiastic and ambitious individual with a passion fo
 </p>
 
 - 🔭 I’m currently working on some personal projects
-- 🌱 I’m currently learning recommender system
+- 🌱 I’m currently learning Japanese
 - ⚡ Fun fact: I have a back ground in Japanese stage plays (kyogen)
 
 <h3 align="left">Languages and Tools:</h3> 
