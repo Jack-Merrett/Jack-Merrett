@@ -1,7 +1,8 @@
-[![MasterHead](https://wallpapercave.com/wp/wp9637434.png)](github.com/Jack-Merrett)
-### Howdy!👋
+[![MasterHead](https://lh3.googleusercontent.com/pw/AIL4fc8zHmJmlo7sPmTyE7cYIPFhkpppZNiFksKcGfAR2CQCCFazuXmkR2spA3UKl915Na7FKogSH03ldi6YMwKhco7MzUNDiwdjWLxd2Ij-rhUxp9Dfi8nY92VOl_Jysw6kQxFAPEK6IHA7Xaa0rOTqw-n8H8sOjACQQVi3lwewujJa869B8jHJyT7o4gQG-IsvLSyRvVc7KmEiaKbqd-L3Im7zyXq_Xo8iBzLZQ-_Lxms0BYU0GfxxKJDQPVwhjrILDqfoa6iPe63qkJE4b2Sgs5Yn-Ryr9GV_bHFqVYgV8KyXXHyvhcvSuw33rsDEQa_KCzO06PoYBbgNQIA9zfqLo3JDeFY6VuQqRP8MiXIycce8h1hBeZBvldsBOf_hICwV5JLNB4DwgTOsvtaOQpKjE6oHYbsXC3b0gVYMv06i3BHuvZJk3cVT01DoHZYhsMA_Ht7KGteYVuLnlZJncRtbZKw-jqqyBjzgDEJIWGLaltKt8SoGMg1KAyPw5WTjfWZgLeCAx4hEcBY0d5jkjRnbIi2ynt-PcGqNge1w4aS9JtJo9kxg8EbgUCpuuIfmToReNK4RGtWc9-dMoyOg4zGNr-hoKC--cWzVnowt-YRuRvbUvy78uQ6g4rE9gfG6w2HS1is4VsqrP3_C9ea-tcOSVK13-4D3iLDb1mFDYCRn9PcZ6-Gp2-ImYL5W-F3brdcxWOLl6kfa8xomBM2tEtjiyXAX1fTTqnQJiQiygDeU57YxCdIaR1hSt6bX7VkNgtf7F4dSROV_CIHxOFtRsGpufYzxHvLIQLGmZ15IWehD_IPYKhzDYwDntqeHyq45q8BPlOxqjP7Om9-c-uN0yLYh7jbelvCOjlENqvE3aJy6Y0DJoBO_y5UkiBBP6MyZAINpvLMuj9q-zZOLjKAdSkDW2nSNlU6FxvpojJkI0PsUqdApwXE-ZVFzCSMGc2PhZo4=w2170-h1630-s-no?authuser=0)](github.com/Jack-Merrett)
+<h1 align = "center"> Howdy👋,  My name is Jack! </h1>
 
-My name is Jack! I am an enthusiastic and ambitious individual with a passion for data science and its incredible potential to drive positive change. I recently graduated from the renowned Le Wagon Tokyo, where I honed my skills and acquired a solid foundation in data science.
+## About Me:
+I am an enthusiastic and ambitious individual with a passion for data science and its incredible potential to drive positive change. I recently graduated from the renowned Le Wagon Tokyo, where I honed my skills and acquired a solid foundation in data science.
 
 📚 Throughout my journey at Le Wagon, I immersed myself in a comprehensive curriculum that covered key concepts and practical tools in data analysis, machine learning, and data visualization. From Python to SQL, Pandas to Matplotlib, I developed a versatile skill set that empowers me to extract valuable insights from complex datasets.
 
