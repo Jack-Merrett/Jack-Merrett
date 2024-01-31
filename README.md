@@ -49,7 +49,7 @@
 
 
 ## About Me:
-I am an enthusiastic and ambitious individual with a passion for data science and its incredible potential to drive positive change. I recently graduated from the renowned Le Wagon Tokyo, where I honed my skills and acquired a solid foundation in data science.
+I am an enthusiastic and ambitious individual with a passion for data Analysis and its incredible potential to drive positive change. I graduated from Le Wagon: Tokyo, where I honed my skills and acquired a foundation in Analysing.
 
 📚 Throughout my journey at Le Wagon, I immersed myself in a comprehensive curriculum that covered key concepts and practical tools in data analysis, machine learning, and data visualization. From Python to SQL, Pandas to Matplotlib, I developed a versatile skill set that empowers me to extract valuable insights from complex datasets.
 
@@ -61,7 +61,7 @@ I am an enthusiastic and ambitious individual with a passion for data science an
 </p>
 
 <h3 align = "left"> Hobbies and Interests 🎮 </h3>
-- 🔭 I’m currently working on building my Data Science and Data Analysis portfolios 💼
+- 🔭 I’m currently working on building my Data Analysis portfolios 💼
 - 🌱 I’m currently learning: Japanese 🇯🇵, improving my SQL 🧑🏻‍💻, and how to get a my foot in the door 🚪.
 - ⚡ Fun fact: I am a very large Warhammer 40k nerd. 
 
