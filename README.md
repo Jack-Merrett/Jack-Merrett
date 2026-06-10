@@ -1,5 +1,3 @@
-[![MasterHead](YOUR-BANNER-IMAGE-HERE)](https://github.com/Jack-Merrett)
-
 <h1 align="center">Hi 👋, I'm Jack Merrett</h1>
 
 <h3 align="center">
@@ -81,11 +79,12 @@ My goal is to transition into a Cloud Security Engineer role where I can combine
 ## 🎓 Education & Certifications
 
 ### Education
-- M.S. Cybersecurity (In Progress)
-- Hawaii Pacific University
+- Hawaii Pacifice Univeristy - M.S. Cybersecurity (In Progress)
+- Portland State University - Communications
 
 ### Certifications
 - CompTIA Security+
+- CompTIA Network+ (scheduled)
 - AWS Cloud Practitioner (Planned)
 - AWS Solutions Architect Associate (Planned)
 
